@@ -1,0 +1,6 @@
+load depth
+load depth3
+load theta
+load position
+pos_pix = pos/pixel_length;
+theta_deg = rad2deg(theta)-90;
